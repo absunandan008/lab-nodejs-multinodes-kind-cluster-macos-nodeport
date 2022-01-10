@@ -1,0 +1,11 @@
+apiVersion: kind.x-k8s.io/v1alpha4
+kind: Cluster
+name: lab-nodejs-app-multi-cluster
+nodes:
+  - role: control-plane
+    extraPortMappings:
+    - containerPort: 32001
+      hostPort: 32001
+  - role: worker
+  - role: worker
+  - role: worker
