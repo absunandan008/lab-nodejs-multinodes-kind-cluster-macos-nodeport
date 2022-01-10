@@ -44,10 +44,11 @@ This script runs forever and prints Hello World and hostname of node
 ```
 Interrupt this script and else it will keep on running
 
-## Deleteting cluster
+## Deleting cluster
 
 ```bash
 ./deleteCluster.sh
 ```
-
+## How it all looks
+![Screenshot](how-it-looks.png)
 
