@@ -50,5 +50,7 @@ Interrupt this script and else it will keep on running
 ./deleteCluster.sh
 ```
 ## How it all looks
+This is how it looks
 ![Screenshot](how-it-looks.png)
-
+Nodes and Pods
+![Screenshot](pods_nodes.png)
