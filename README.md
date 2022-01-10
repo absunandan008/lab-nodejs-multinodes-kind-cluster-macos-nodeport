@@ -9,7 +9,7 @@ individual node using nodeip:nodeport
 Also we can only reach one nodeport, which means that we can only reach one 
 service in this cluster.
 
-Follow this kind document: (extra-port-mappings) [https://kind.sigs.k8s.io/docs/user/configuration#extra-port-mappings]
+Follow this kind document: [extra-port-mappings] (https://kind.sigs.k8s.io/docs/user/configuration#extra-port-mappings)
 
 
 ## Requirements
